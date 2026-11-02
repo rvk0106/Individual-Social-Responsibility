@@ -17,7 +17,7 @@ tscbipmp@gmail.com, commissioner-ghmc@gov.in, zc.west.ghmc@gmail.com
 ## Subject
 
 ```
-Complaint: Health impact of severe air and noise pollution from prolonged construction – [Project name], Nallagandla – request for inspection
+Complaint: Health impact of severe air and noise pollution from prolonged construction – Saffron 360 Trishala, Tellapur / Nallagandla – request for inspection
 ```
 
 ## Body
@@ -30,8 +30,11 @@ The Zonal Commissioner, Serilingampally Zone, GHMC
 
 Respected Sir/Madam,
 
-I am a resident of [house no., community name], Nallagandla, Serilingampally, Hyderabad. My home is approximately [X] metres from the construction site of [project name / builder name].
-Site location: [Google Maps link]
+I am a resident of [house no., community name], Nallagandla, Serilingampally, Hyderabad. My home is approximately [X] metres from the construction site of Saffron 360 Trishala.
+
+Site location: Saffron 360 Trishala, F854+Q38, Tellapur, Nallagandla, Telangana 500046
+Coordinates: 17.459386, 78.305318
+Google Maps: https://maps.google.com/?q=17.459386,78.305318
 
 Construction at this site has continued for nearly five years, causing severe air and noise pollution in our home. My daughter is now 7 years old and has been exposed to continuous dust and noise from the age of 2, during the most critical years of lung and brain development.
 
@@ -60,14 +63,14 @@ Yours sincerely,
 [Your full name]
 [Phone number]
 rvk0106@gmail.com
-Date: [DD-MM-2026]
+Date: 02-11-2026
 ```
 
 ## WhatsApp — GHMC 81259 66586 (send with video + location pin)
 
 ```
 Complaint – Nallagandla, Serilingampally zone.
-Construction site of [project name] next to [community name] has been running for ~5 years. Large excavation with exposed soil, no water sprinkling, partial barricading, and heavy rock-breaking causing dust, noise and vibration in our homes. A young child lives next to the site.
+Construction site of Saffron 360 Trishala next to [community name] has been running for ~5 years. Large excavation with exposed soil, no water sprinkling, partial barricading, and heavy rock-breaking causing dust, noise and vibration in our homes. A young child lives next to the site.
 Video and location attached. Request site inspection and enforcement of C&D dust-control rules. Please share a complaint number.
 ```
 
