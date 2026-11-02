@@ -1,6 +1,6 @@
 # Complaint email — construction pollution, Nallagandla
 
-Status: draft, not yet sent. Fill every [bracket] before sending.
+Status: SENT 2026-11-02 (see complaint-log.md). Kept as the template for follow-ups.
 Attach: `2026-11-02_1153_site-video.mp4` (12 MB) from this folder.
 
 ## To
