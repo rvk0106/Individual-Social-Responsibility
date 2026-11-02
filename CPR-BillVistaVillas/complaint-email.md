@@ -17,7 +17,7 @@ tscbipmp@gmail.com, commissioner-ghmc@gov.in, zc.west.ghmc@gmail.com
 ## Subject
 
 ```
-Complaint: Severe air and noise pollution from prolonged construction – [Project name], Nallagandla – request for inspection
+Complaint: Health impact of severe air and noise pollution from prolonged construction – [Project name], Nallagandla – request for inspection
 ```
 
 ## Body
@@ -31,8 +31,11 @@ The Zonal Commissioner, Serilingampally Zone, GHMC
 Respected Sir/Madam,
 
 I am a resident of [house no., community name], Nallagandla, Serilingampally, Hyderabad. My home is approximately [X] metres from the construction site of [project name / builder name].
+Site location: [Google Maps link]
 
 Construction at this site has continued for nearly five years, causing severe air and noise pollution in our home. My daughter is now 7 years old and has been exposed to continuous dust and noise from the age of 2, during the most critical years of lung and brain development.
+
+We understand that construction is a normal part of a growing city, and for a long time we tolerated the inconvenience without complaint. We are writing now because it has become a health concern for our family. The constant dust is affecting our respiratory health, especially our child's, and the continuous noise disrupts our daily routine, sleep and work, causing significant stress at home. This complaint is first and foremost about protecting our family's health, beyond any regulatory technicality.
 
 Observed issues (video evidence dated 02-Nov-2026 attached):
 1. A large excavated area with exposed soil left uncovered.
